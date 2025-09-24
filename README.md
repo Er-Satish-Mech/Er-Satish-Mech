@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Er-Satish-Mech/Er-Satish-Mech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m **Satish Kumar**, a Mechanical Engineering fresher passionate about **design, development, and automotive manufacturing**.
 
-Here are some ideas to get you started:
+## 🌟 Skills
+- CAD Software: CATIA, SolidWorks
+- Simulation: Ansys
+- Projects: Electric Vehicle Design, Pedal Powered Abrasive Jet Machining System
+- Other: MS Office, Problem-solving, Innovation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Interests
+Music, Walking, Yoga, Meditation
+
+Feel free to explore my projects and connect! 🚀
